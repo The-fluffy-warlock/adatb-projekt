@@ -1,5 +1,8 @@
 1. Az adott témának megfelelő SQL adatbázis megtervezése (legalább 5 tábla, minimum 3NF-ben legyen)
 
+Az adatbazis egy autoiskola adatait tarolja,
+Ez tartalmazza a diakok, oktatok es autok adatait es a vizsgak (gyakorlat es elso segely) reszleteit
+
     Logikai modell
 
 
